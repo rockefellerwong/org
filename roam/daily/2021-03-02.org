@@ -1,0 +1,14 @@
+#+title: 2021-03-02
+* Welcome to a whole new day!
+** Trying to make yourself some awards [1/2]:
+- [ ] Get some cake after building GTD system.
+- [X] Had a nice sleep yesterday for two pieces of candy.
+
+* About [[file:../20210301215905-org_roam_learning.org][org-roam-learning]]:
+** Trying to make some shortcuts:
+- [[elisp:org-roam-insert][org-roam-insert]].
+- [[elisp:org-roam-find-file][org-roam-find-file]].
+- [[elisp:org-roam-dailies-find-today][org-roam-dailies-find-today]].
+- [[elisp:org-roam-dailies-find-directory][org-roam-dailies-find-directory]].
+
+* Jump to the [[../20210302131000-index.org][Index]] file.

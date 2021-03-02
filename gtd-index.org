@@ -1,0 +1,14 @@
+#+TITLE: GTD Index
+
+* Back to [[file:roam/20210302131000-index.org][Index]].
+* TODO [#C] Complete org-agenda.
+SCHEDULED: <2021-03-02 Tue>
+- q to quit [[elisp:org-agenda][org-agenda]].
+- SPC-m-t to [[elisp:org-todo][change status]].
+- SPC-m-d-s to open [[elisp:org-schedule][org-schedule]].
+
+* TODO [#B] Inbox [0/4]:
+- [ ] Eat lunch.
+- [ ] Read book for 25 minutes.
+- [ ] Push org files to GitHub.
+- [ ] Complete LaTeX preview.

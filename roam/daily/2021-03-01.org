@@ -1,0 +1,11 @@
+#+title: 2021-03-01
+* Now to create a page called [[[[file:../20210301215905-org_roam_learning.org][org-roam-learning]]]].
+
+* DONE [#A] Have a good night.
+** Try to calm down.
+** I like my musics.
+
+* Things for tomorrow:
+** TODO [#C] Build up GTD.
+** TODO [#C] LaTex preview.
+** DONE [#C] Prepare notes for [[[[file:../20210301215905-org_roam_learning.org][org-roam-learning]]]].

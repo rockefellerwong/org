@@ -1,0 +1,9 @@
+#+title: Index
+
+* This is the org-roam-index file.
+* [[file:~/org/gtd-index.org][GTD Index]] page.
+* Buttons:
+- [[elisp:org-roam-insert][org-roam-insert]].
+- [[elisp:org-roam-find-file][org-roam-find-file]].
+- [[elisp:org-roam-dailies-find-today][org-roam-find-today]].
+- [[elisp:org-roam-dailies-find-directory][org-roam-dailies-find-directory]].

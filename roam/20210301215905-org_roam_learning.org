@@ -1,0 +1,54 @@
+#+title: org-roam-learning
+This is about org-roam learning.
+* Press SPC-n-r-i to create a mentioned page.
+* Press SPC-n-r-d-t to create a daily note.
+* Shortcuts:
+:PROPERTIES:
+:ID:       0fb4f34d-258d-4ec4-bae7-60f8788f5e2e
+:END:
+** [ [ roam : title] ] links to an Org-roam file with title or alias "title".
+*** e.g.
+- [[roam:[[file:daily/2021-03-01.org][2021-03-01]]]].
+- [[roam:[[file:daily/2021-03-02.org][2021-03-02]]]].
+- [[roam:[[file:20210302131000-index.org][Index]]]].
+
+** [ [ roam : *headline ] ] links to the headline "headline" in the current Org-roam file.
+*** e.g.
+- [[id:0fb4f34d-258d-4ec4-bae7-60f8788f5e2e][Shortcuts:]]
+
+** [ [ roam : title *headline ] ] links to the headline "headline" in the Org-roam file with title or alias "title".
+
+* Mutipule texts:
+** To enable an image: [[[[./img/20674541_p0.jpg]]]].
+*** [[elisp:org-toggle-inline-images][org-toggle-inline-images]].
+
+* To enable graph:
+** Install graphviz via:
+#+begin_src shell
+brew install graphviz
+#+end_src
+
+** [[elisp:org-roam-graph][org-roam-graph]] to show the graph.
+** Graph configs.
+- (v) org-roam-graph-node-extra-config to '(("color" . "red")).
+- (v) org-roam-graph-edge-cites-extra-config to '(("color" . "red")).
+
+** Helm is preferred for org-roam:
+- (setq org-roam-completion-system 'helm).
+
+* [[elisp:org-roam-doctor][org-roam-doctor]].
+* [[elisp:org-roam-unlinked-references][org-roam-unlinked-references]].
+#+begin_src shell
+brew install ripgrep
+#+end_src`
+
+* Ecosystem:
+** [[https://magit.vc][Magit]].
+** LaTeX preview.
+#+begin_src shell
+brew install --cask mactex-no-gui
+brew install divpng
+#+end_src
+
+- [[elisp:org-latex-preview][org-latex-preview]].
+- $a^{2}+b^{2}=c^{2}$.
