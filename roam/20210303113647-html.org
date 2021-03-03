@@ -1,0 +1,53 @@
+#+title: HTML
+
+* Basics:
+- HTML stands for Hypertext Markup Language.
+- Tags: open and close with:
+  #+begin_src html
+<html>
+  <body>
+    Some information.
+  </body>
+</html>
+  #+end_src
+- Tags are the building blocks of websites, and there's plenty of them to go around.
+*** Tags:
+- <h1> </h1> (args in 1 ~ 3).
+- <p> </p> for paragraphs.
+- <br> for break (as well as \n).
+- <em> </em> for emphasize (italic).
+- <strong> </strong> for bold.
+- <⁠h⁠e⁠a⁠d⁠> </head> before <body> make special arguments.
+  #+begin_src html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Title</title>
+  </head>
+  <body>
+  </body>
+</html>
+  #+end_src
+- <!DOCTYPE html> for the version comes in head of a file.
+- <a href=""> </a> to make a link.
+- <img src=""> to enable an image.
+  - args: width="100"
+  - args: height="70"
+- <iframe src=""> </iframe> to enable a webpage.
+- <ol type=""> </ol> to make a list (ordered list).
+  - args: <li> </li> make a line as a list member.
+  - args: type="A" ("I", default for "1").
+  - args: reversed.
+- <ul> </ul> for bullet lists (unordered list).
+  - args: <li> </li> make a line as a list member.
+
+* CSS:
+- <body style=""> </body> to enable CSS style.
+  - args: background-color:gray; to make background colors.
+- <p style=""> </p>:
+  - args: color:red;
+  - args: font-family:arial;
+  - args: font-size:26px;
+  - args: text-align:center;
+- <span style=""> </span> to change a group of words.
+- <div style=""> </div> to change a group of tags.

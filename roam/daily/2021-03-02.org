@@ -1,7 +1,7 @@
 #+title: 2021-03-02
 * Welcome to a whole new day!
-** Trying to make yourself some awards [1/2]:
-- [ ] Get some cake after building GTD system.
+** Trying to make yourself some awards [2/2]:
+- [X] Get some cake after building GTD system.
 - [X] Had a nice sleep yesterday for two pieces of candy.
 
 * About [[file:../20210301215905-org_roam_learning.org][org-roam-learning]]:

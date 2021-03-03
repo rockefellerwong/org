@@ -1,4 +1,7 @@
 #+title: org-roam-learning
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+
 This is about org-roam learning.
 * Press SPC-n-r-i to create a mentioned page.
 * Press SPC-n-r-d-t to create a daily note.
@@ -33,9 +36,6 @@ brew install graphviz
 - (v) org-roam-graph-node-extra-config to '(("color" . "red")).
 - (v) org-roam-graph-edge-cites-extra-config to '(("color" . "red")).
 
-** Helm is preferred for org-roam:
-- (setq org-roam-completion-system 'helm).
-
 * [[elisp:org-roam-doctor][org-roam-doctor]].
 * [[elisp:org-roam-unlinked-references][org-roam-unlinked-references]].
 #+begin_src shell
@@ -45,10 +45,26 @@ brew install ripgrep
 * Ecosystem:
 ** [[https://magit.vc][Magit]].
 ** LaTeX preview.
+*** Install mactex via:
 #+begin_src shell
 brew install --cask mactex-no-gui
-brew install divpng
 #+end_src
 
-- [[elisp:org-latex-preview][org-latex-preview]].
-- $a^{2}+b^{2}=c^{2}$.
+*** Install dvipng via:
+#+begin_src shell
+sudo tlmgr update --self
+tlmgr install dvipng collection-fontsrecommended
+#+end_src
+
+
+*** [[elisp:org-latex-preview][org-latex-preview]].
+
+- $\sum_{i=1}^{n}i^{3}=(\sum_{i=1}^{n}i)^{2}$.
+
+$$\begin{aligned}
+f^{\prime}(3) &=\lim _{h \rightarrow 0} \frac{(3+h)^{2}-3^{2}}{h} \\
+&=\lim _{h \rightarrow 0} \frac{9+6 h+h^{2}-9}{h} \\
+&=\lim _{h \rightarrow 0} \frac{6 h+h^{2}}{h} \\
+&=\lim _{h \rightarrow 0}(6+h) \\
+&=6
+\end{aligned}$$

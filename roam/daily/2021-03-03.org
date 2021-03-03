@@ -1,0 +1,30 @@
+#+title: 2021-03-03
+
+* Have a good day!
+** Now I think it important that to get the [[file:../20210303112534-billing_management.org][Billing Management]].
+
+* Playground:
+#+begin_src elisp
+(+ 2 (+ 1 1))
+#+end_src
+
+#+RESULTS:
+: 4
+
+#+begin_src shell
+cowsay "Rockefeller Rocks!"
+#+end_src
+
+#+RESULTS:
+| ____________________ |              |        |   |   |
+| <                    | Rockefeller  | Rocks! | > |   |
+| -------------------- |              |        |   |   |
+| \                    | ^__^         |        |   |   |
+| \                    | (oo)\_______ |        |   |   |
+| (__)\                | )\/\         |        |   |   |
+|                      |              | ----w  |   |   |
+|                      |              |        |   |   |
+
+* Learning [[roam:[[file:../20210303113647-html.org][HTML]]]].
+* Learning Computer Networking: [[https://www.youtube.com/watch?v=K1bMSPje6pw][videos]], [[https://www.bilibili.com/video/BV1JV411t7ow][中国科学技术大学]].
+** [[file:../20210303160109-computer_networking.org][Computer Networking]].
