@@ -2,10 +2,10 @@
 #+STARTUP: latexpreview
 #+STARTUP: inlineimages
 
-- Computer Networking: 安身立命之本.
+- Computer Networking: **安身立命之本**.
 * Introduction:
-** Basic:
-*** Transform layers:
+** Basics:
+*** Transform layers (传输层级):
 - TCP/UDP $\rightarrow$ HTTP/FTP $\rightarrow$ Functions.
 
   [[./img/networking001.png]]
@@ -14,7 +14,7 @@
 - TCP/UDP are application layer protocols (E2E, end-to-end).
 - TCP/UDP using IP (network layer protocols) (P2P, point-to-point) for transform.
 - Deeper layers: media (in Physical layer, the 0th layer).
-*** Network layers (IP):
+*** Network layers (IP, 网络层级):
 - Routing (classic method): routing algorithms $\rightarrow$ routing table $\rightarrow$ IP data transfer.
 - SDN (morden method):
   - Data: network switch $\rightarrow$ upload.
@@ -22,18 +22,24 @@
 ** Method (Internet):
 - Internet is one of the network systems.
 *** Network:
-- Based on nodes and links.
+- Based on nodes and connections.
 *** Computer Networking:
 - Based on clients (nodes) that linked on net.
-  - Computers (hosts/end systems).
-  - Data switching nodes (packets: routers and switches).
+  - Computers (hosts/end systems, 终端机).
+  - Data switching nodes (routers and switches, 路由和交换机).
 *** Internet:
 - A group of network based on TCP/IP.
-- Links: calculate with bps (bit-per-second).
+- Links: calculate with M-bps (Million-bit-per-second, 兆).
 - PDUs: Professional Development Units.
 - Another perspective for Internet (services):
-  - Distributed application process.
+  - Distributed application process (分布式应用进程).
   - Base installations.
 - Services:
   - TCP: connection-oriented protocol.
   - UDP: connectionless protocol.
+- Swithes (交换机):
+  - Two servers: 华为 & Cisco Systems (思科系统).
+
+    [[./img/huawei_cisco_logo.png]]
+
+***

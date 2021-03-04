@@ -1,0 +1,11 @@
+#+title: Geometry Basics
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+
+* Euclidean geometry problems:
+** Problem 001:
+- Problem: $4$ isosceles right $\triangle$ around a square, prove that the red lines are perpendiculared to each other.
+
+[[./img/geogebra-export-001.png]]
+
+- Solution: Notice that we can simplify the problem as well as prove that the blue lines are perpendiculared to each other. With the fact that four points at the green circle, it easily to prove that the angle between the blue lines is $90^{\circ}$. Cause a square is symmetrical, so the theorem is also viable to the other $3$ Triangles, proof done.

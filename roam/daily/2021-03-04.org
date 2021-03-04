@@ -1,0 +1,38 @@
+#+title: 2021-03-04
+#+STARTUP: inlineimages
+#+STARTUP: latexpreview
+
+* Big day!
+** Most important thing:
+
+[[./img/quanguozhengxie13-4_logo.png]]
+
+** We should remember the color: #e43501 for 红色 · 中国.
+** 全国政协 stands for 中国人民政治协商会议.
+** I found a interesting word called "吃瓜" that can be described as:
+- Someone cares for something just for fun.
+- It is meaningless and it wastes time.
+** There are some problems for now:
+- Decline in fertility.
+- The increase in young people's sudden-death rate.
+- The terrible value increase in Bitcoins from 2021.
+** [[file:../20210304181705-geometry_basics.org][Geometry Basics]].
+
+* Image gallery:
+
+[[./img/IMG_0547.JPG]]
+
+[[./img/IMG_0610.png]]
+
+[[./img/IMG_0446.png]]
+
+[[./img/IMG_0584.JPG]]
+
+* After dinner, boring now.
+- If you ask me why I prefer Emacs than Notion or Roam Research, I'll say just cause I can.
+- A beautiful equation (proved by myself several months ago):
+
+  cause: $n^{3}=n^{2} \cdot n=n \cdot\left(n^{2}-n\right)+n^{2}=n \cdot\left(n^{2}-n\right)+\sum^{n} 2 i-1=\sum^{n} n^{2}-n+2 i-1$,
+  so: $\sum_{i=1}^{n} i^{3}=\sum_{i=1}^{\frac{1}{2} n(n+1)} 2 i-1=\left(\frac{1}{2} n(n+1)\right)^{2}=\left(\sum_{i=1}^{n} i\right)^{2}$.
+
+- Liked song: [[https://open.spotify.com/track/4bnw0LrRFsmH68ijj1sxBV?si=rwCimksDR-OwpITQLCxj6g][Build Our Machine]].
