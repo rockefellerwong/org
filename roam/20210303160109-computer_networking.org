@@ -14,19 +14,23 @@
 - TCP/UDP are application layer protocols (E2E, end-to-end).
 - TCP/UDP using IP (network layer protocols) (P2P, point-to-point) for transform.
 - Deeper layers: media (in Physical layer, the 0th layer).
+
 *** Network layers (IP, 网络层级):
 - Routing (classic method): routing algorithms $\rightarrow$ routing table $\rightarrow$ IP data transfer.
 - SDN (morden method):
   - Data: network switch $\rightarrow$ upload.
   - Controllers: system $\rightarrow$ applications $\rightarrow$ float table $\rightarrow$ switch.
+
 ** Method (Internet):
 - Internet is one of the network systems.
 *** Network:
 - Based on nodes and connections.
+
 *** Computer Networking:
 - Based on clients (nodes) that linked on net.
   - Computers (hosts/end systems, 终端机).
   - Data switching nodes (routers and switches, 路由和交换机).
+
 *** Internet:
 - A group of network based on TCP/IP.
 - Links: calculate with M-bps (Million-bit-per-second, 兆).
@@ -42,4 +46,4 @@
 
     [[./img/huawei_cisco_logo.png]]
 
-***
+** The edge system of Internet:

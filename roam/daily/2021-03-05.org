@@ -1,0 +1,21 @@
+#+title: 2021-03-05
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
+
+*Chisolm's First Corollary to Murphy's Second Law:*
+*When things just can't possibly get any worse, they will.*
+
+[[./img/A656CAD53367CB3307C7AB167FBF015D.jpg]]
+
+* Morning!
+- Today I have several simple plans to realize, [[[[file:../20210302131000-index.org][Index]]]].
+- Learn [[roam:[[file:../20210303160109-computer_networking.org][Computer Networking]]]].
+
+* Life feeds on negative entropy - Erwin Schrodinger.
+- [[https://www.bilibili.com/video/BV1n7411P73g][新冠病毒的自我修养: 如何统治全人类]].
+- 人类真正的敌人是无序.
+
+* So what make you feel so damn bored now?
+- Dreams.
+- Studyings.
+- Maybe it's time for playing some games.

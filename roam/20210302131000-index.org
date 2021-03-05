@@ -1,20 +1,24 @@
 #+title: Index
+#+STARTUP: latexpreview
+#+STARTUP: inlineimages
 
-- This is the org-roam-index file.
+* Welcome to doom-emacs!
+
+[[./img/wallpaper-index.png]]
 
 * [[file:~/org/gtd-index.org][GTD Index]] page.
 
 * Buttons:
-- [[elisp:org-roam-graph][org-roam-graph]].
-- [[elisp:org-roam-insert][org-roam-insert]].
-- [[elisp:org-roam-find-file][org-roam-find-file]].
-- [[elisp:org-roam-dailies-find-today][org-roam-find-today]].
-- [[elisp:org-roam-dailies-find-directory][org-roam-dailies-find-directory]].
+** [[elisp:org-roam-graph][org-roam-graph]].
+** [[elisp:org-roam-insert][org-roam-insert]].
+** [[elisp:org-roam-find-file][org-roam-find-file]].
+** [[elisp:org-roam-dailies-find-today][org-roam-find-today]].
+** [[elisp:org-roam-dailies-find-directory][org-roam-dailies-find-directory]].
 
 * Jump to [[roam:[[file:20210301215905-org_roam_learning.org][org-roam-learning]]]].
 
 * Links:
-- [[roam:[[file:20210303112534-billing_management.org][Billing Management]]]]
-- [[roam:[[file:20210303113647-html.org][HTML]]]].
-- [[roam:[[file:20210303160109-computer_networking.org][Computer Networking]]]].
-- [[roam:[[file:20210304181705-geometry_basics.org][Geometry Basics]]]].
+** [[roam:[[file:20210303112534-billing_management.org][Billing Management]]]].
+** [[roam:[[file:20210303113647-html.org][HTML]]]].
+** [[roam:[[file:20210303160109-computer_networking.org][Computer Networking]]]].
+** [[roam:[[file:20210304181705-geometry_basics.org][Geometry Basics]]]].

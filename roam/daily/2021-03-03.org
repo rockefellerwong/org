@@ -12,7 +12,7 @@
 : 4
 
 #+begin_src shell
-cowsay "Rockefeller Rocks!"
+cowsay 'Rockefeller Rocks!'
 #+end_src
 
 #+RESULTS:

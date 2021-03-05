@@ -1,0 +1,2 @@
+#+STARTUP: inlineimages
+#+STARTUP: latexpreview

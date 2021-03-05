@@ -1,20 +1,31 @@
 #+TITLE: GTD Index
 
 * Back to [[file:roam/20210302131000-index.org][Index]].
+
 * DONE [#C] Complete org-agenda.
 SCHEDULED: <2021-03-02 Tue>
 - q to quit [[elisp:org-agenda][org-agenda]].
 - SPC-m-t to [[elisp:org-todo][change status]].
 - SPC-m-d-s to open [[elisp:org-schedule][org-schedule]].
 
-* TODO [#B] Inbox [4/5]:
+* DONE [#A] Inbox [6/6]:
 - [X] Eat lunch.
 - [X] Read book for 25 minutes.
 - [X] Push org files to GitHub.
 - [X] Complete LaTeX preview.
-- [ ] Learn to add habits.
+- [X] Learn to add habits.
+- [X] Auto add STARTUP message in org-mode.
+
+* TODO [#B] Daily Tasks [3/5]:
+SCHEDULED: <2021-03-05 Fri +1d>
+- [X] Take morning pills.
+- [X] Read today's fortune.
+- [X] Add tasks for today.
+- [ ] Take some cakes after bath.
+- [ ] Backup notes to GitHub.
 
 * PROJ [#C] Learning [[file:roam/20210303113647-html.org][HTML]] [66%].
 - [X] Make a notebook.
 - [X] Follow the Mimo course.
 - [ ] Course of CSS.
+
