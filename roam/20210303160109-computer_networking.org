@@ -46,4 +46,16 @@
 
     [[./img/huawei_cisco_logo.png]]
 
-** The edge system of Internet:
+*** New module of the Internet: Starlink.
+
+[[./img/spacex-logo.png]]
+
+** The edge system of Internet (网络边缘):
+
+[[./img/networking002.png]]
+
+*** core system (网络核心):
+- Dynamic connectivity (动态联通性).
+- For data switching.
+
+*** The network process is the reason that egde system exists.

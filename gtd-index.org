@@ -8,13 +8,14 @@ SCHEDULED: <2021-03-02 Tue>
 - SPC-m-t to [[elisp:org-todo][change status]].
 - SPC-m-d-s to open [[elisp:org-schedule][org-schedule]].
 
-* DONE [#A] Inbox [6/6]:
+* TODO [#A] Inbox [6/7]:
 - [X] Eat lunch.
 - [X] Read book for 25 minutes.
 - [X] Push org files to GitHub.
 - [X] Complete LaTeX preview.
 - [X] Learn to add habits.
 - [X] Auto add STARTUP message in org-mode.
+- [ ] Refresh the identity card.
 
 * TODO [#B] Daily Tasks [3/5]:
 SCHEDULED: <2021-03-05 Fri +1d>
